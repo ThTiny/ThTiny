@@ -1,16 +1,17 @@
-### Hi there 👋
+# Phra Kittitat Khophueng. or TinyPresent
 
-<!--
-**ThTiny/ThTiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Objective:
+Dedicated and passionate Bachelor's degree student in Education at Mahachulalongkornrajavidyalaya University, combining a profound interest in education with a fervent passion for programming. Ordained as a monk with the name Phra Kittitat Khophueng, I am committed to bridging the worlds of teaching and technology to create innovative learning experiences.
 
-Here are some ideas to get you started:
+Education:
+Bachelor of Education in computer science
+Mahachulalongkornrajavidyalaya University, 2022
+Proficient in Python, JavaScript,PHP
+Solid understanding of React, Angular,Laravel
+Conducted interactive and engaging lessons as part of my education program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Monastic Journey:
+Ordained as a monk with the name Phra Kittitat Khophueng.
+Embraced mindfulness and meditation practices, fostering self-discipline and clarity of thought.
+Passion and Goals:
+As a student, programmer, and ordained monk, my passion lies in merging the worlds of education and technology. I aim to leverage my programming skills to create innovative educational tools that engage students and enrich their learning experiences. Guided by the principles of my monastic journey, I am committed to enhancing education through technology, promoting holistic development, and fostering a positive impact on society.
